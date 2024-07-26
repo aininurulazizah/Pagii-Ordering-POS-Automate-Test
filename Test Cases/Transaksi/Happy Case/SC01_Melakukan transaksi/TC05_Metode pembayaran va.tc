@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Metode pembayaran va</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37807f42-9fa4-4b0c-9da0-85e5574e77c2</testCaseGuid>
+</TestCaseEntity>

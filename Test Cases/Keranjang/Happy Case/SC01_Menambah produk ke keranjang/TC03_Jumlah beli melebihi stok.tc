@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Jumlah beli melebihi stok</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>649de1ef-87d2-41cc-a63c-b38cb04a6c76</testCaseGuid>
+</TestCaseEntity>

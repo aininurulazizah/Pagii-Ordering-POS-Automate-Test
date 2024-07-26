@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Melalui halaman keranjang dengan mengurangi produk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0f74a6e-773c-48c0-a1cd-bdc346af10a4</testCaseGuid>
+</TestCaseEntity>

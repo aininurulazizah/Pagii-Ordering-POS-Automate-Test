@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Memilih produk terlebih dahulu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc890e9a-54be-4fdb-b9c2-94c234ac971b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Mencari produk tidak tersedia di salah satu kategori</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10b7b981-bb33-452f-bd56-e7251d10a29e</testCaseGuid>
+</TestCaseEntity>

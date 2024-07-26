@@ -25,15 +25,15 @@ WebUI.setViewPortSize(480, 800)
 
 WebUI.setText(findTestObject('Autentikasi/Login/input_email'), 'aininurul9702@gmail.com')
 
-WebUI.setText(findTestObject('Autentikasi/Login/input_password'), 'Keepbangtan02*')
-
 WebUI.click(findTestObject('Autentikasi/Login/button_login'))
+
+WebUI.verifyElementPresent(findTestObject('Autentikasi/Login/p_isi password'), 0)
 
 WebUI.delay(2)
 
 actualURL = WebUI.getUrl()
 
-expectedLink = 'https://sandbox-pos.stagingapps.net/'
+expectedLink = 'https://sandbox-pos.stagingapps.net/login'
 
 WebUI.verifyMatch(actualURL, expectedLink, false)
 

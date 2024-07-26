@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login dengan email dan password valid</name>
+   <name>TC04_Metode pembayaran qrcode</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d74d0680-2492-449d-b387-5e2b6bfbc810</testCaseGuid>
+   <testCaseGuid>6b39a8bf-d308-4bd3-9193-9e47024a04a9</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Tidak mengisi nomor referensi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed863cc3-7590-4fec-a8fd-54cc28648867</testCaseGuid>
+</TestCaseEntity>

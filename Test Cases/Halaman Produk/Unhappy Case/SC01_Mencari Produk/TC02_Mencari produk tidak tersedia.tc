@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Mencari produk tidak tersedia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fce5eb12-9f90-4238-bcc9-fd43c56e17c7</testCaseGuid>
+</TestCaseEntity>

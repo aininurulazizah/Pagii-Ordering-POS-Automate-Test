@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Metode pembayaran cash</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33576a02-9b13-40f3-8337-e45c519bc99a</testCaseGuid>
+</TestCaseEntity>

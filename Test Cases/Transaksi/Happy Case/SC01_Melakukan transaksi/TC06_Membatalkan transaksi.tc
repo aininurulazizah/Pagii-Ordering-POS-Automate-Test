@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Membatalkan transaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>956b2cf6-bc4b-46fe-8dc4-7ab6e8203c3c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_Transaksi dengan kuantitas beli melebihi stok</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a84a3a95-182a-45ab-bf57-dc7197b2b2d3</testCaseGuid>
+</TestCaseEntity>

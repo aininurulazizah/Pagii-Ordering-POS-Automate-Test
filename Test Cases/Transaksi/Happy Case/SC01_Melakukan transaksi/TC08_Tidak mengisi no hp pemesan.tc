@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Tidak mengisi no hp pemesan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4e4eb7d-e40d-47ca-8cf7-80e9777c40d0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Tidak mengisi nama pemesan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad220f8e-02d2-4d8b-acfd-2bebb6cb626d</testCaseGuid>
+</TestCaseEntity>

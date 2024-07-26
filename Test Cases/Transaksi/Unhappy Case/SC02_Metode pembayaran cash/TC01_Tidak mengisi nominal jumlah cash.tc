@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Tidak mengisi nominal jumlah cash</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e66102b7-c0f9-491e-b77b-61bb187dc753</testCaseGuid>
+</TestCaseEntity>

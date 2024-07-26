@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Tidak memilih bank dan tidak mengisi nomor referensi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88eef4c8-3fdf-41b9-9eab-c8f1f67c5ebe</testCaseGuid>
+</TestCaseEntity>

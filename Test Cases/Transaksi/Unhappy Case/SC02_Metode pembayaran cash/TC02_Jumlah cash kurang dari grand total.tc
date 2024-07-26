@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Jumlah cash kurang dari grand total</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a4b4918-cdec-4559-84eb-48bd519e6bc9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09_Tidak mengisi metode pembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c016f038-2e12-4cb6-bbe1-2baf6cc072ee</testCaseGuid>
+</TestCaseEntity>

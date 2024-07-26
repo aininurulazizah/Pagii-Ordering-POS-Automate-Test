@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Mencari produk tersedia di salah satu kategori</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e89ad34-259d-4742-b7ac-412795ff1815</testCaseGuid>
+</TestCaseEntity>

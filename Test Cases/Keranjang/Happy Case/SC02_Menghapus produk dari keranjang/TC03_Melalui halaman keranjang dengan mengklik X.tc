@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Melalui halaman keranjang dengan mengklik X</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>861ec80d-0cc6-45a0-9a7b-0c6a233d28b5</testCaseGuid>
+</TestCaseEntity>
